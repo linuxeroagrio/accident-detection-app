@@ -3,7 +3,6 @@ import urllib.request
 import os
 from werkzeug.utils import secure_filename
 import requests
-#import cv2.dnn
 import numpy as np
 import cv2
 from matplotlib import pyplot as plt
